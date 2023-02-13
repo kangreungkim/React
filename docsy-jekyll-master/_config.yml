@@ -14,25 +14,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 리액트18
-email: kangreung.kim@gmail.com
-author: 김영선
+title: Docsy Jekyll
+email: your-email@domain.com
+author: Dinosaur Avocado
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
 # Add your baseurl here (your repository) but DO NOT CHANGE THE LINE NUMBER without editing .circleci/circle_urls.sh
-baseurl: "/React" # the subpath of your site, e.g. /blog
+baseurl: "/docsy-jekyll" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://kangreungkim.github.io" # the base hostname & protocol for your site
+url: "https://vsoch.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/kangreungkim/React"
-github_user: "kangreungkim"
-github_repo: "React"
-github_branch: "main"
+repo: "https://github.com/vsoch/docsy-jekyll"
+github_user: "vsoch"
+github_repo: "docsy-jekyll"
+github_branch: "master"
 
 # Optional
 twitter: vsoch
