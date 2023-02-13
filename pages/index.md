@@ -6,6 +6,7 @@ permalink: /
 
 # Welcome to React 18.2.0
 
+![assets/img/react_logo.png](assets/img/react_logo.png "React blog")
 - Automatic Batching 같은 즉시 사용 가능한 개선사항
 - startTransition 같은 New API, Concurrent 기능 추가
 - Suspense를 지원하는 스트리밍 서버 사이드 렌더링(Suspense와 React.lazy 지원)
