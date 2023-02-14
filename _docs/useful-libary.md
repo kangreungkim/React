@@ -1,9 +1,12 @@
 ---
-title: Versioning your Docs
-description: How to turn on and use versioning
+title: 리액트 유용한 라이브러리
+tags: 
+ - Material UI
+ - React Bootstrap
+description: 
 ---
 
-# Versioning
+# Material UI
 
 Versioning documentation is a useful feature that can be achieved using Docsy Jekyll. It allows you to take snapshots of your documentation that may align with a specific version of a product or service, or you may wish to just keep a historical view of the changes that have been made to your documents over time.
 
@@ -16,7 +19,7 @@ The following information will take you through the detailed setup of versioning
 3. Update the _data/toc-mapping.yml file to point the new table of contents
 4. Test your site locally to ensure it works as expected!
 
-## Implementation
+## React Bootstrap
 
 The way in which versioning is achieved is by duplicating your whole document directory and placing it inside an 'archive' subdirectory with the name of that version. The following illustrates what the base document root looks like *without* another version for this Docsy Jekyll site.
 

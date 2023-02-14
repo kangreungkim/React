@@ -9,6 +9,8 @@ tags:
 description: 
 ---
 
+# 카운터 증가 예입니다.
+
 context.js
 ```
 import React from "react";

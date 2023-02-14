@@ -6,11 +6,13 @@
       children:
         - title: 설치
           url: "docs/getting-started#getting-started"
+        - title: 배포
+          url: "docs/getting-started#build"          
     - title: 유용한 라이브러리
       url: "docs/useful-libary"
-    - title: "ES6"
+    - title: "ES5->ES6"
       url: "docs/es6"
-    - title: "Favorite API"
+    - title: "Favorite Package"
       url: "docs/favorite-api"
 
 - title: "Projects"
