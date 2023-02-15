@@ -20,6 +20,8 @@
   links:
     - title: 선물옵션모의투자
       url: "docs/Project/trading"
+    - title: Upbit Api
+      url: "docs/Project/upbit-trading"      
     - title: 네이버API Map
       url: "docs/Project/naver-map"
 
